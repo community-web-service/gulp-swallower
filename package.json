@@ -1,0 +1,36 @@
+{
+	"name":"gulp-swallower",
+	"version":"0.0.1",
+	"description":"Create extendable gulp tasks via plugins.",
+	"homepage":"https://github.com/community-web-service/gulp-swallower",
+	"author":{
+		"name":"Robert Gaines",
+		"email":"rob@communitywebservice.com",
+		"url":"https://www.communitywebservice.com"
+	},
+	"license":"Apache-2.0",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/community-web-service/gulp-swallower"
+	},
+	"bugs":{
+		"email":"rob@communitywebservice.com",
+		"url":"https://github.com/community-web-service/gulp-swallower/issues"
+	},
+	"directories":{
+		"doc":"./doc/md/"
+	},
+	"main":"index.js",
+	"dependencies": {
+		"linear-array-flattener": "^1.0.2"
+	},
+	"scripts":{
+		"test":"echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords":[
+		"javascript",
+		"function",
+		"array",
+		"array.flat"
+	]
+}
